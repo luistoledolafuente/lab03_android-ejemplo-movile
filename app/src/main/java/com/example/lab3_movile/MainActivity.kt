@@ -85,7 +85,7 @@ fun BusinessCardHeader(brandColor: Color) {
         }
         // Nombre
         Text(
-            text = "Jennifer Doe",
+            text = "Luis Miguel Toledo",
             fontSize = 40.sp,
             fontWeight = FontWeight.Light,
             color = Color.Black
@@ -117,7 +117,7 @@ fun ContactInfo(brandColor: Color) {
         )
         ContactRow(
             icon = Icons.Rounded.Email,
-            text = "jen.doe@android.com",
+            text = "luis.toledo.l@android.com",
             iconColor = brandColor
         )
     }
